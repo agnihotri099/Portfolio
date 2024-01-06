@@ -716,3 +716,9 @@ p {
 .ser li{
 	font-size: 15px;
 }
+
+
+#contact .contact-item .contact-info h2 a {
+    color: black;
+    text-decoration: none; /* Optional: Removes underline */
+}
